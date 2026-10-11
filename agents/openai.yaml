@@ -1,0 +1,4 @@
+interface:
+  display_name: "keyshot show"
+  short_description: "将 KeyShot 场景制作成可续渲、可验证的 360 度模型展示视频"
+  default_prompt: "使用 $keyshot-show，把文件夹里的 KeyShot 场景制作成 4 秒的 360 度展示视频。"

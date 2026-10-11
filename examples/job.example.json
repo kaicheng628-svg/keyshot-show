@@ -1,0 +1,20 @@
+{
+  "work_dir": "C:/KeyShotShow/work",
+  "output_dir": "C:/KeyShotShow/output",
+  "duration": 4,
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "samples": 64,
+  "preview_samples": 32,
+  "distance_scale": 1.25,
+  "axis": "y",
+  "direction": -1,
+  "engine": "gpu",
+  "max_frames_per_run": 60,
+  "ffmpeg": "C:/Tools/ffmpeg/bin/ffmpeg.exe",
+  "ffprobe": "C:/Tools/ffmpeg/bin/ffprobe.exe",
+  "models": [
+    {"id": "model-a", "source": "C:/KeyShotShow/models/model-a.ksp"}
+  ]
+}
